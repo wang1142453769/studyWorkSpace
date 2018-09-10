@@ -1,3 +1,9 @@
 #logo{
-	float: right;
+	float: right; widows: 500px; height: 400px;
 }
+#tmp_tit{
+	width: 100%;
+	background-color: #fff;
+	
+}
+
